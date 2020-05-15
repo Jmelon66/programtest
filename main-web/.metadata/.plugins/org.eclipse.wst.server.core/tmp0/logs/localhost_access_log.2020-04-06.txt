@@ -1,0 +1,13 @@
+0:0:0:0:0:0:0:1 - - [06/Apr/2020:21:06:24 +0800] "GET /searchengine/mana HTTP/1.1" 200 5680
+0:0:0:0:0:0:0:1 - - [06/Apr/2020:21:06:26 +0800] "GET /searchengine/css/searching.css HTTP/1.1" 200 2104
+0:0:0:0:0:0:0:1 - - [06/Apr/2020:21:06:26 +0800] "GET /favicon.ico HTTP/1.1" 404 1079
+0:0:0:0:0:0:0:1 - - [06/Apr/2020:21:06:33 +0800] "POST /searchengine/swithtype HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [06/Apr/2020:21:06:33 +0800] "POST /searchengine/swithtype HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [06/Apr/2020:21:06:33 +0800] "POST /searchengine/swithtype HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [06/Apr/2020:21:06:33 +0800] "POST /searchengine/swithtype HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [06/Apr/2020:21:06:33 +0800] "POST /searchengine/swithtype HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [06/Apr/2020:21:06:33 +0800] "POST /searchengine/swithtype HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [06/Apr/2020:21:06:34 +0800] "POST /searchengine/swithtype HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [06/Apr/2020:21:06:34 +0800] "POST /searchengine/swithtype HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [06/Apr/2020:21:06:35 +0800] "POST /searchengine/swithtype HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [06/Apr/2020:21:06:41 +0800] "GET /searchengine/searchurl?searchkey=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B1%95&page=1 HTTP/1.1" 200 10968

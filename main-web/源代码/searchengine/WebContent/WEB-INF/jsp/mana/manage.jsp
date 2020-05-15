@@ -1,0 +1,198 @@
+<%@page contentType="text/html"%>
+<%@page pageEncoding="UTF-8"%>
+<%
+	String path = request.getContextPath();
+	String basePath = request.getScheme() + "://" + request.getServerName() + ":" + request.getServerPort()
+			+ path + "/";
+	System.out.print(basePath);
+%>
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Manager</title>
+<link rel="stylesheet" type="text/css"
+	href="<%=basePath%>css/searching.css" />
+<link rel="stylesheet"
+	href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
+<script
+	src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<style type="text/css">
+.input {
+	width: 100px;
+}
+</style>
+</head>
+
+<body>
+	<div class="panel-group" id="accordion">
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<h4 class="panel-title">
+					<a data-toggle="collapse" data-parent="#accordion"
+						href="#collapseOne"> Webmagic爬虫设置 </a>
+				</h4>
+			</div>
+			<div id="collapseOne" class="panel-collapse collapse in">
+				<div class="panel-body">
+					<div id="body3">
+						<div class="input-group">
+							<span class="input-group-addon">间隔:</span> <input type="number"
+								class="form-control input" placeholder="50" name="SleepTime">
+						</div>
+						<div class="input-group">
+							<span class="input-group-addon">重试次数：</span> <input type="number"
+								class="form-control input" placeholder="10" name="RetryTimes">
+						</div>
+						<div class="input-group">
+							<span class="input-group-addon">循环时间：</span> <input type="text"
+								class="form-control input" placeholder="10"
+								name="CycleRetryTimes"> <span class="input-group-addon">小时</span>
+						</div>
+						<div class="input-group">
+							<span class="input-group-addon">起始位置：</span> <input type="text"
+								class="form-control input" placeholder="10"
+								name="Page">
+						</div>
+						<div class="input-group">
+							<span class="input-group-addon">最大数量：</span> <input type="text"
+								class="form-control input" placeholder="10"
+								name="maxcount">
+						</div>
+						<div class="btn-group" data-toggle="buttons">
+							<label class="btn btn-primary"> <input type="radio"
+								name="urltype" id="option1" value="1" checked="checked"
+								onchange="">17k
+							</label> <label class="btn btn-primary"> <input type="radio"
+								name="urltype" value="2" id="option2" onchange="">卢比
+							</label>
+						</div>
+						<hr />
+						<button type="button" class="btn btn-primary" data-toggle="button">保存设置
+						</button>
+						<hr />
+						<button type="button" class="btn btn-primary" data-toggle="button"
+							onclick="spiderstart()">启动一次</button>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<h4 class="panel-title">
+					<a data-toggle="collapse" data-parent="#accordion"
+						href="#collapseTwo"> 主题管理 </a>
+				</h4>
+			</div>
+			<div id="collapseTwo" class="panel-collapse collapse">
+				<div class="panel-body">
+					<div id="body3">
+						切页设置：
+						<hr />
+						<div class="btn-group" data-toggle="buttons">
+							<label class="btn btn-primary"> <input type="radio"
+								name="manpage" id="option1" value="1" checked="checked"
+								onchange="changepage(this)">手动换页
+							</label> <label class="btn btn-primary"> <input type="radio"
+								name="manpage" value="0" id="option2"
+								onchange="changepage(this)">自动换页
+							</label>
+						</div>
+						<hr />
+						每页显示数量：
+						<div>
+							<form class="bs-example bs-example-form" role="form">
+								<div class="input-group">
+
+									<span class="input-group-addon">数量</span> <input type="text"
+										class="form-control" placeholder="10" onblur="limitpage(this)">
+								</div>
+								<br>
+							</form>
+						</div>
+						<hr />
+						主页图片:
+						<hr />
+						<input type="file" accept="image/gif, image/jpeg" name="photo" />
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<h4 class="panel-title">
+					<a data-toggle="collapse" data-parent="#accordion"
+						href="#collapseThree"> 用户管理 </a>
+				</h4>
+			</div>
+			<div id="collapseThree" class="panel-collapse collapse">
+				<div class="panel-body"></div>
+			</div>
+		</div>
+	</div>
+</body>
+<script type="text/javascript">
+	function changepage(e) {
+		var va = $(e).val();
+		var t = 1
+
+		if (va == "1") {
+			t = 1
+		} else {
+			t = 0
+		}
+		var da = {
+			type : t
+		}
+		$.ajax({
+			url : "swithtype",
+			cache : false,
+			data : da,
+			type : "post",
+		});
+	}
+
+	function limitpage(e) {
+		var val = $(e).val()
+		val = val.replace(/[^0-9-]+/, '');
+		$(e).val(val)
+		var a = Number(val)
+
+		var da = {
+			num : a
+		}
+		$.ajax({
+			url : "limitpage",
+			cache : false,
+			data : da,
+			type : "post",
+		});
+	}
+	function spiderstart() {
+		var SleepTime = Number($("input[name='SleepTime']").val())
+		var RetryTimes = Number($("input[name='RetryTimes']").val())
+		var CycleRetryTimes = Number($("input[name='CycleRetryTimes']").val())
+		var urltype = Number($("input[name='urltype']:checked").val())
+		var Page = Number($("input[name='Page']").val())
+		var maxcount = Number($("input[name='maxcount']").val())
+		var da = {
+			SleepTime : SleepTime,
+			RetryTimes : RetryTimes,
+			CycleRetryTimes : CycleRetryTimes,
+			urltype:urltype,
+			Page:Page,
+			maxcount:maxcount
+		}
+		$.ajax({
+			url : "runstart",
+			cache : false,
+			data : da,
+			type : "post",
+		});
+	}
+</script>
+
+</html>

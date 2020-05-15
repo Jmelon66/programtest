@@ -1,0 +1,131 @@
+* {
+	padding: 0;
+}
+
+#body2 {
+	width: 100%;
+	height: auto;
+	min-height: 800px;
+	margin: 3px;
+	margin-top: 50px;
+	margin-left: 50px;
+}
+
+.from_URL {
+	width: 500px;
+	height: auto;
+	margin: 10px;
+	margin-bottom: 20px;
+}
+
+.from_URL_name {
+	font-size: 20px;
+	font-family: "微软雅黑";
+}
+
+.from_URL_author {
+	color: olive;
+	font: "楷体" 15px;
+}
+
+.from_URL_origin {
+	color: gray;
+	font: 18px bold;
+}
+
+.from_URL_sketch {
+	font: 15px "微软雅黑";
+}
+
+.page_button {
+	background-color: whitesmoke;
+	padding: 5px;
+	border: 1px solid gray;
+	margin: 3px;
+}
+
+.logoimg {
+	width: 200px;
+	height: 100px;
+}
+
+.bottom {
+	width: 100%;
+	height: 50px;
+	background-color: gainsboro;
+	margin: 0 auto;
+	padding: 0;
+	margin-top: 50px;
+	text-align: center;
+	bottom: 10px;
+	line-height: 50px;
+	margin-bottom: 20px;
+}
+
+.hr_span {
+	margin: 40px 10px 10px 20px;
+	box-shadow: 0.1px 0px 1px 0px gray;
+}
+
+.inputtext {
+	box-shadow: none;
+	border: 1px solid #122B40;
+	margin-top: 20px;
+	margin-right: 0;
+	border-radius: 2px;
+	/*设置圆角大小*/
+	width: 500px;
+	/*设置长*/
+	height: 40px;
+	/*设置高*/
+	font-size: 20px;
+	/*设置文字大小*/
+	padding: 0 10px;
+	/*设置内边距，让文字跟左侧有点距离，顺序为上,左*/
+}
+
+.button {
+	margin-top: 20px;
+	margin-left: 0;
+	border: 1px solid #FFAC44;
+	/*设置边框*/
+	width: 100px;
+	height: 40px;
+	font-size: 20px;
+	background-color: orange;
+	color: white;
+	transition: 0.5s;
+	/*设置事件响应css变化的时长*/
+	cursor: pointer;
+	/*设置鼠标位于按钮上时指针的变化*/
+	border-radius: 2px;
+	/*设置圆角大小*/
+}
+
+.button:hover {
+	background-color: #FFAC44;
+	box-shadow: 1px 0px 1px 1px black;
+	
+}
+
+.header {
+	font-size: 0;
+}
+.from_next_page{
+	height: 40px;
+	line-height: 40px;
+	width: 1000px;
+	background-color: gainsboro;
+	text-align: center;
+	border: 1px black solid;
+	box-shadow: 0.1px 0px 1px 0px gray;
+}
+.loading img{
+	width: 200px;
+	height: 200px;
+}
+#body3{
+	margin: 20px;
+	height: 600px;
+	width: 1000px;
+}

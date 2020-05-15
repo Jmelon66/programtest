@@ -1,0 +1,11 @@
+package web;
+
+import java.util.HashMap;
+
+public class chashset {
+	private HashMap map;
+	public hashset() {
+		// TODO Auto-generated constructor stub
+		map = new HashMap<>();
+	}
+}
