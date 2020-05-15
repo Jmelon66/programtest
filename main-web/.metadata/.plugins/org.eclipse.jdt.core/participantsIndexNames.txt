@@ -1,9 +1,0 @@
-INDEX VERSION 1.131
-F:\李智营work\java应用技术\last\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4123728375.index
-\searchengine\src
-F:\李智营work\java应用技术\last\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3176356449.index
-\searchengine\src
-F:\李智营work\java应用技术\last\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\936482149.index
-\searchengine\src
-F:\李智营work\java应用技术\last\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2568660478.index
-\searchengine\src
