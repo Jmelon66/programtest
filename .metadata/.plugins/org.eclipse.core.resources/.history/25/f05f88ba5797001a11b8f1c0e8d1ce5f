@@ -64,7 +64,7 @@ public class searchController{
 	   List<hword> hlist=finalmanager.gethword(t, s,0);
 	   List<hword> hotlist=finalmanager.gethword(null,3);
 	   if(hlist.size()>0) {
-		   HTML2="鐩稿叧鎺ㄨ崘锛�";
+		   HTML2="相关推荐：";
 		   System.out.println(hlist.size());
 		   for(hword h : hlist) {
 			   HTML2=HTML2+"<a href=\"http://localhost:8084/searchengine/searchurl?searchkey="+h.getWord()+"\">"
@@ -100,7 +100,7 @@ public class searchController{
 		   HTML=HTML+tr+"<div class=\"from_URL_name\"><div><a href=\""+b.getUrl()+"\" target=\"_blank\" onclick=\"clickpage(this)\">"+tr2+"</a></div>"
 	   +"<div class=\"from_URL_infos\">"
 	   + "<div class=\"from_URL_time\">"+searchdes.gettime(b.getTime())+"</div>"
-	   +"<div class=\"from_URL_sketch\">"+temp.Substring(0,temp.Length - 1)+"</div></div>"
+	   +"<div class=\"from_URL_sketch\">"+temp+"</div></div>"
 	   + "<div class=\"from_URL_origin\">"+b.getOrigin()+"</div></div></div>";
 	   }
 	   Pageintr p;
@@ -143,7 +143,7 @@ public class searchController{
 	   +"<div class=\"from_URL_sketch\">"+b.getSketch().trim()+"</div>"
 	   +"<div class=\"from_URL_author\">"+b.getAuthor()+"</div>"
 	   +"<div class=\"from_URL_origin\">"+b.getOrigin()+"</div>"
-	   + "<div class=\"from_URL_origin\">鐐瑰嚮閲�:"+b.getVisittimes()+"</div>"
+	   + "<div class=\"from_URL_origin\">点击量:"+b.getVisittimes()+"</div>"
 	   +tr2;
 	   }
 	   Pageintr p;
@@ -192,7 +192,7 @@ public class searchController{
 	   HTML=HTML+p.getpagecontent(page, maxn, s);
 	   }
 	   else {
-		   HTML="<div class=\"from_URL_bottom\">\"瀹㈠畼娌′簡鍠旓紒\"</div>";
+		   HTML="<div class=\"from_URL_bottom\">\"客官没了喔！\"</div>";
 	   }
 	return HTML;
    }
@@ -229,16 +229,16 @@ public class searchController{
 	   HTML=HTML+p.getpagecontent(page, maxn, content);
 	   }
 	   else {
-		   HTML="<div class=\"from_URL_bottom\">\"瀹㈠畼娌′簡鍠旓紒\"</div>";
+		   HTML="<div class=\"from_URL_bottom\">\"客官没了喔！\"</div>";
 	   }
 	return HTML;
    }
    @RequestMapping("/subsug")
    @ResponseBody
    public String subsug(String type,String url,String info) {
-	   String con="绫诲瀷:"+type+",url:"+url+",淇℃伅:"+info;
+	   String con="类型:"+type+",url:"+url+",信息:"+info;
 	   String SQL="insert into  sugmess(content,origin,con,time)"
-	   		+ " values('"+con+"','鐢ㄦ埛',0,NOW())";
+	   		+ " values('"+con+"','用户',0,NOW())";
 	finalmanager.addkey(SQL);
 	return con;
    }

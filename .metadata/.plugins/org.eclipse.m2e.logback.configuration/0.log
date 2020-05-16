@@ -1,0 +1,2 @@
+2020-05-16 17:25:41,505 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-05-16 17:26:30,766 [ForkJoinPool.commonPool-worker-3] WARN  org.eclipse.jgit.util.FS - locking FileBasedConfig[C:\Users\Administrator\.config\jgit\config] failed after 5 retries
