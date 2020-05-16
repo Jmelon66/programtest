@@ -1,0 +1,84 @@
+* {
+	margin: 0 auto;
+	padding: 0;
+}
+
+html,
+body {
+	list-style: none;
+	height: 100%;
+}
+
+#body {
+	position: absolute;
+	width: 1000px;
+	height: 800px;
+	left: 50%;
+	top: 50%;
+	margin-left: -500px;
+	margin-top: -400px;
+}
+
+.inbody {
+	width: 80%;
+	height: 80%;
+	text-align: center;
+	position: absolute;
+	top: 20%;
+	left: 10%;
+}
+.inbody div:nth-child(2){
+	font-size: 0;
+}
+.inbody img{
+	width: 500px;
+	height: 200px;
+}
+.header {
+	font-weight: 500;
+	/*加粗文本*/
+	font-size: 50px;
+	/*设置文字大小*/
+	font-family: "宋";
+	/*设置文字*/
+	margin-top: 15px;
+}
+
+.inputtext {
+	box-shadow: none;
+	border: 1px solid #122B40;
+	margin-top: 20px;
+	margin-right: 0;
+	border-radius: 2px;
+	/*设置圆角大小*/
+	width: 500px;
+	/*设置长*/
+	height: 40px;
+	/*设置高*/
+	font-size: 20px;
+	/*设置文字大小*/
+	padding: 0 10px;
+	/*设置内边距，让文字跟左侧有点距离，顺序为上,左*/
+}
+
+.button {
+	margin-top: 20px;
+	margin-left: 0;
+	border: 1px solid #3083ff;
+	/*设置边框*/
+	width: 100px;
+	height: 40px;
+	font-size: 20px;
+	background-color: #3487ff;
+	color: white;
+	transition: 0.5s;
+	/*设置事件响应css变化的时长*/
+	cursor: pointer;
+	/*设置鼠标位于按钮上时指针的变化*/
+	border-radius: 2%;
+	/*设置圆角大小*/
+}
+
+.button:hover {
+	background-color: #007DDB;
+}

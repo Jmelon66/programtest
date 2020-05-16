@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+F:\李智营work\java应用技术\last\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2972990367.index
+3176356449.index
+2657353728.index
+802173376.index
+1526730096.index
+3672345788.index
+1070660372.index
