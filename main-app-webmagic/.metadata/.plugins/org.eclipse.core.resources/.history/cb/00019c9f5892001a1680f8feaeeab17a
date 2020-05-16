@@ -1,0 +1,18 @@
+package web;
+
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Set;
+
+public class chashset {
+	Set<String> gurl = new HashSet<>();
+	public chashset() {
+	}
+	public boolean check(String url) {
+		gurl.add(url);
+		return true;
+	}
+	public String out() {
+		return gurl.iterator().next();
+	}
+}

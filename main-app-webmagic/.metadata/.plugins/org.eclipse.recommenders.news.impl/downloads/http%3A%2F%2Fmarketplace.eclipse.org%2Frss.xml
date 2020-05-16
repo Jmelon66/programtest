@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://marketplace.eclipse.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Eclipse Plugins, Bundles and Products - Eclipse Marketplace</title>
+    <link>http://marketplace.eclipse.org/</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://marketplace.eclipse.org/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>IP*Works! SSH</title>
+    <link>http://marketplace.eclipse.org/content/ipworks-ssh</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/ipworks%20ssh%20image.png&quot; width=&quot;95&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2019-08-15 17:58&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22/n%20software%2C%20Inc.%22&quot;&gt;/n software, Inc.&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2019-08-12 11:37&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/ihaznedari/listings&quot; title=&quot;Drew Dalton&quot;&gt;Drew Dalton&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Easily integrate Secure Shell (SSH) security into your Internet applications! IP*Works! SSH includes SSH-enabled client, server, and proxy components supporting strong SSH 2.0 encryption and advanced cryptography.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.nsoftware.com/ipworks/ssh/&quot; rel=&quot;nofollow&quot;&gt;https://www.nsoftware.com/ipworks/ssh/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Features&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Support for SSH version 2.0.&lt;/li&gt;
+&lt;li&gt;Security features include strong encryption algorithms such as AES GCM, ChaCha20-Poly1305, and many more. Message integrity checking, secure secret key exchange, and ECDH SSH key exchange algorithms.&lt;/li&gt;
+&lt;li&gt;Easy to use SSH-enabled components supporting major Internet protocols.&lt;/li&gt;
+&lt;li&gt;A complete unified framework with a common, easy-to-learn object model and simplified interfaces that help you get more done.&lt;/li&gt;
+&lt;li&gt;Components are thread-safe on critical members.&lt;/li&gt;
+&lt;li&gt;Fast, robust, reliable - the components consume minimal resources.&lt;/li&gt;
+&lt;li&gt;Native development components for all supported platforms and component technologies.&lt;/li&gt;
+&lt;li&gt;Rigorously tested, rock-solid components that have undergone hundreds of thousands of hours of testing both internally by our QA team and externally through customer installations.&lt;/li&gt;
+&lt;li&gt;Detailed reference documentation, sample applications, fully-indexed help files, and an extensive online knowledge-base.&lt;/li&gt;
+&lt;li&gt;Backed by multi-tier professional support, including free email support and enterprise-level paid support.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;For more information, please visit &lt;a href=&quot;https://www.nsoftware.com/ipworks/ssh/&quot; rel=&quot;nofollow&quot;&gt;https://www.nsoftware.com/ipworks/ssh/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Download the free trial at &lt;a href=&quot;https://www.nsoftware.com/ipworks/ssh/download.aspx&quot; rel=&quot;nofollow&quot;&gt;https://www.nsoftware.com/ipworks/ssh/download.aspx&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 12 Aug 2019 15:37:23 +0000</pubDate>
+ <dc:creator>ihaznedari</dc:creator>
+ <guid isPermaLink="false">4757887 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/ipworks-ssh#comments</comments>
+  </item>
+  <item>
+    <title>IP*Works WebSockets</title>
+    <link>http://marketplace.eclipse.org/content/ipworks-websockets</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/ipworks%20ws%20image.png&quot; width=&quot;95&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2019-08-15 17:57&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22/n%20software%2C%20Inc.%22&quot;&gt;/n software, Inc.&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2019-08-12 11:06&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/ihaznedari/listings&quot; title=&quot;Drew Dalton&quot;&gt;Drew Dalton&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Create real-time, web-connected applications with support for WebSockets. Includes client, server, and proxy components for building and connecting to WebSockets (HTML5) based applications. The components are perfect for building Web connected applications that require real-time data including chat, multi-player games, live financial applications, and more!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.nsoftware.com/ipworks/ws/&quot; rel=&quot;nofollow&quot;&gt;https://www.nsoftware.com/ipworks/ws/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Features&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Provides a standard framework for ongoing bi-directional communications.&lt;/li&gt;
+&lt;li&gt;Support for WebSocket and WebSocket Secure connections with up to 256-bit strong SSL encryption and digital certificates.&lt;/li&gt;
+&lt;li&gt;Authenticate and encrypt/decrypt data sent and received using TLS 1.3, TLS 1.2, 1.1 or 1.0.&lt;/li&gt;
+&lt;li&gt;Advanced digital certificate capabilities allow you to create, sign, and manage X.509 digital certificates. Become your own certificate authority.&lt;/li&gt;
+&lt;li&gt;A complete unified framework with a common, easy-to-learn object model and simplified interfaces that help you get more done.&lt;/li&gt;
+&lt;li&gt;Components are thread-safe on critical members.&lt;/li&gt;
+&lt;li&gt;Fast, robust, reliable - the components consume minimal resources.&lt;/li&gt;
+&lt;li&gt;Native development components for all supported platforms and component technologies.&lt;/li&gt;
+&lt;li&gt;Rigorously tested, rock-solid components that have undergone hundreds of thousands of hours of testing both internally by our QA team and externally through customer installations.&lt;/li&gt;
+&lt;li&gt;Detailed reference documentation, sample applications, fully-indexed help files, and an extensive online knowledge-base.&lt;/li&gt;
+&lt;li&gt;Backed by multi-tier professional support, including free email support and enterprise-level paid support.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;For more information, please visit &lt;a href=&quot;https://www.nsoftware.com/ipworks/ws/&quot; rel=&quot;nofollow&quot;&gt;https://www.nsoftware.com/ipworks/ws/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Download the free trial at &lt;a href=&quot;https://www.nsoftware.com/ipworks/ws/download.aspx&quot; rel=&quot;nofollow&quot;&gt;https://www.nsoftware.com/ipworks/ws/download.aspx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 12 Aug 2019 15:06:59 +0000</pubDate>
+ <dc:creator>ihaznedari</dc:creator>
+ <guid isPermaLink="false">4757848 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/ipworks-websockets#comments</comments>
+  </item>
+  <item>
+    <title>IP*Works! SNMP</title>
+    <link>http://marketplace.eclipse.org/content/ipworks-snmp</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/ipworks%20snmp%20image.png&quot; width=&quot;95&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2019-08-15 17:55&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22/n%20software%2C%20Inc.%22&quot;&gt;/n software, Inc.&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2019-08-12 14:01&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/ihaznedari/listings&quot; title=&quot;Drew Dalton&quot;&gt;Drew Dalton&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A comprehensive toolkit for building secure SNMP-based agent and manager applications. Supports a complete range of network management capabilities including SNMPv3 security features, trap handling, and MIB compilation.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.nsoftware.com/ipworks/snmp/&quot; rel=&quot;nofollow&quot;&gt;https://www.nsoftware.com/ipworks/snmp/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Features&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Support for the latest SNMP standards including SNMPv1, SNMPv2c, and Secure SNMPv3.&lt;/li&gt;
+&lt;li&gt;Security features including authentication, authorization, and access control.&lt;/li&gt;
+&lt;li&gt;Read and compile ASN.1 MIB files into an easy to use object representation.&lt;/li&gt;
+&lt;li&gt;SNMP trap management and filtering.&lt;/li&gt;
+&lt;li&gt;FIPS 140-2 compliant cryptography (Windows only).&lt;/li&gt;
+&lt;li&gt;Optimized asynchronous socket architecture.&lt;/li&gt;
+&lt;li&gt;A complete unified framework with a common, easy-to-learn object model and simplified interfaces that help you get more done.&lt;/li&gt;
+&lt;li&gt;Components are thread-safe on critical members.&lt;/li&gt;
+&lt;li&gt;Fast, robust, reliable - the components consume minimal resources.&lt;/li&gt;
+&lt;li&gt;Native development components for all supported platforms and component technologies.&lt;/li&gt;
+&lt;li&gt;Rigorously tested, rock-solid components that have undergone hundreds of thousands of hours of testing both internally by our QA team and externally through customer installations.&lt;/li&gt;
+&lt;li&gt;Detailed reference documentation, sample applications, fully-indexed help files, and an extensive online knowledgebase.&lt;/li&gt;
+&lt;li&gt;Backed by multi-tier professional support, including free email support and enterprise-level paid support.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;For more information, please visit &lt;a href=&quot;https://www.nsoftware.com/ipworks/snmp/&quot; rel=&quot;nofollow&quot;&gt;https://www.nsoftware.com/ipworks/snmp/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Download the free trial at &lt;a href=&quot;https://www.nsoftware.com/ipworks/snmp/download.aspx&quot; rel=&quot;nofollow&quot;&gt;https://www.nsoftware.com/ipworks/snmp/download.aspx&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 12 Aug 2019 18:01:34 +0000</pubDate>
+ <dc:creator>ihaznedari</dc:creator>
+ <guid isPermaLink="false">4758014 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/ipworks-snmp#comments</comments>
+  </item>
+  <item>
+    <title>IP*Works! IoT</title>
+    <link>http://marketplace.eclipse.org/content/ipworks-iot</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/ipworks%20iot%20image.png&quot; width=&quot;95&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2019-08-15 17:54&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22/n%20software%2C%20Inc.%22&quot;&gt;/n software, Inc.&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2019-08-12 12:06&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/ihaznedari/listings&quot; title=&quot;Drew Dalton&quot;&gt;Drew Dalton&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;IP*Works! IoT is a brand new toolset designed to help you easily implement the IoT protocols you need to communicate between networked devices. Many common protocols are supported, including AMQP, MQTT, STOMP and more. The included components are built on the rock-solid IP*Works! framework, which provides the web communications and security technology developers have trusted for 20+ years.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.nsoftware.com/ipworks/mq/download.aspx&quot; rel=&quot;nofollow&quot;&gt;https://www.nsoftware.com/ipworks/mq/download.aspx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; Features&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;AMQP 1.0 and 0.9.1 fully supported.&lt;/li&gt;
+&lt;li&gt;Supports plaintext, TLS, and WebSockets in applicable protocols.&lt;/li&gt;
+&lt;li&gt;Save and restore MQTT session data between connections for easy session reuse.&lt;/li&gt;
+&lt;li&gt;Fully compliant with MQTT version 3.1.1 and all QoS levels. MQTT 5.0 support coming soon.&lt;/li&gt;
+&lt;li&gt;Automatic reconnection and republishing to adhere to specified QoS levels.&lt;/li&gt;
+&lt;li&gt;AMQP complex messages represented as JSON for easy reading and creating.&lt;/li&gt;
+&lt;li&gt;Fast instant messaging with XMPP.&lt;/li&gt;
+&lt;li&gt;Choose between synchronous and asynchronous modes.&lt;/li&gt;
+&lt;li&gt;STOMP 1.1 and 1.2 support.&lt;/li&gt;
+&lt;li&gt;A complete unified framework with a common, easy-to-learn object model and simplified interfaces that help you get more done.&lt;/li&gt;
+&lt;li&gt;Components are thread-safe on critical members.&lt;/li&gt;
+&lt;li&gt;Fast, robust, reliable - the components consume minimal resources.&lt;/li&gt;
+&lt;li&gt;Native development components for all supported platforms and component technologies.&lt;/li&gt;
+&lt;li&gt;Rigorously tested, rock-solid components that have undergone hundreds of thousands of hours of testing both internally by our QA team and externally through customer installations.&lt;/li&gt;
+&lt;li&gt;Detailed reference documentation, sample applications, fully-indexed help files, and an extensive online knowledge-base.&lt;/li&gt;
+&lt;li&gt;Backed by multi-tier professional support, including free email support and enterprise-level paid support.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;For more information, please visit &lt;a href=&quot;https://www.nsoftware.com/ipworks/mq/download.aspx&quot; rel=&quot;nofollow&quot;&gt;https://www.nsoftware.com/ipworks/mq/download.aspx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Download the free trial at &lt;a href=&quot;https://www.nsoftware.com/ipworks/iot/download.aspx&quot; rel=&quot;nofollow&quot;&gt;https://www.nsoftware.com/ipworks/iot/download.aspx&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 12 Aug 2019 16:06:04 +0000</pubDate>
+ <dc:creator>ihaznedari</dc:creator>
+ <guid isPermaLink="false">4757911 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/ipworks-iot#comments</comments>
+  </item>
+  <item>
+    <title>IP*Works! MQ</title>
+    <link>http://marketplace.eclipse.org/content/ipworks-mq</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/mq.png&quot; width=&quot;110&quot; height=&quot;71&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2019-08-15 17:53&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22/n%20software%2C%20Inc.%22&quot;&gt;/n software, Inc.&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2019-08-12 12:41&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/ihaznedari/listings&quot; title=&quot;Drew Dalton&quot;&gt;Drew Dalton&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;IP*Works! MQ is designed to help you easily implement popular messaging protocols to communicate between networked devices. Many common protocols and services are supported, including Azure Relay, AMQP, MQTT, STOMP and more. The included components are built on the rock-solid IP*Works! framework, which provides the web communications and security technology developers have trusted for 20+ years.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.nsoftware.com/ipworks/mq/&quot; rel=&quot;nofollow&quot;&gt;https://www.nsoftware.com/ipworks/mq/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Features &lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Fully compliant with MQTT version 3.1.1 and 5.0.&lt;/li&gt;
+&lt;li&gt;AMQP 1.0 and 0.9.1 fully supported.&lt;/li&gt;
+&lt;li&gt;Azure Relay support for sending, receving, and proxying connections.&lt;/li&gt;
+&lt;li&gt;STOMP 1.1 and 1.2 support.&lt;/li&gt;
+&lt;li&gt;Save and restore MQTT session data between connections for easy session reuse.&lt;/li&gt;
+&lt;li&gt;Fast instant messaging with XMPP.&lt;/li&gt;
+&lt;li&gt;Automatic reconnection and republishing to adhere to specified QoS levels.&lt;/li&gt;
+&lt;li&gt;Supports plaintext, TLS, and WebSockets in applicable protocols.&lt;/li&gt;
+&lt;li&gt;A complete unified framework with a common, easy-to-learn object model and simplified interfaces that help you get more done.&lt;/li&gt;
+&lt;li&gt;Components are thread-safe on critical members.&lt;/li&gt;
+&lt;li&gt;Fast, robust, reliable - the components consume minimal resources.&lt;/li&gt;
+&lt;li&gt;Native development components for all supported platforms and component technologies.&lt;/li&gt;
+&lt;li&gt;Rigorously tested, rock-solid components that have undergone hundreds of thousands of hours of testing both internally by our QA team and externally through customer installations.&lt;/li&gt;
+&lt;li&gt;Detailed reference documentation, sample applications, fully-indexed help files, and an extensive online knowledgebase.&lt;/li&gt;
+&lt;li&gt;Backed by multi-tier professional support, including free email support and enterprise-level paid support.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;For more information, please visit &lt;a href=&quot;https://www.nsoftware.com/ipworks/mq/&quot; rel=&quot;nofollow&quot;&gt;https://www.nsoftware.com/ipworks/mq/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Download the free trial at &lt;a href=&quot;https://www.nsoftware.com/ipworks/mq/download.aspx&quot; rel=&quot;nofollow&quot;&gt;https://www.nsoftware.com/ipworks/mq/download.aspx&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 12 Aug 2019 16:41:09 +0000</pubDate>
+ <dc:creator>ihaznedari</dc:creator>
+ <guid isPermaLink="false">4757938 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/ipworks-mq#comments</comments>
+  </item>
+  <item>
+    <title>Cloud Storage Integrator</title>
+    <link>http://marketplace.eclipse.org/content/cloud-storage-integrator</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/cloud%20storage%20integrator%20image.png&quot; width=&quot;95&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2019-08-15 17:52&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22/n%20software%2C%20Inc.%22&quot;&gt;/n software, Inc.&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2019-08-12 14:34&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/ihaznedari/listings&quot; title=&quot;Drew Dalton&quot;&gt;Drew Dalton&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A set of easy-to-use file and document storage components for integrating with popular cloud repositories like OneDrive, Amazon, Google Drive, SharePoint, Dropbox, Box.com, Wasabi, etc.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.nsoftware.com/in/cloudstorage/&quot; rel=&quot;nofollow&quot;&gt;https://www.nsoftware.com/in/cloudstorage/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; Features&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;A complete unified framework with a common, easy-to-learn object model and simplified interfaces that help you get more done.&lt;/li&gt;
+&lt;li&gt;Components are thread-safe on critical members.&lt;/li&gt;
+&lt;li&gt;Fast, robust, reliable - the components consume minimal resources.&lt;/li&gt;
+&lt;li&gt;Native development components for all supported platforms and component technologies.&lt;/li&gt;
+&lt;li&gt;Rigorously tested, rock-solid components that have undergone hundreds of thousands of hours of testing both internally by our QA team and externally through customer installations.&lt;/li&gt;
+&lt;li&gt;Detailed reference documentation, sample applications, fully-indexed help files, and an extensive online knowledge-base.&lt;/li&gt;
+&lt;li&gt;Backed by multi-tier professional support, including free email support and enterprise-level paid support&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;For more information, please visit &lt;a href=&quot;https://www.nsoftware.com/in/cloudstorage/&quot; rel=&quot;nofollow&quot;&gt;https://www.nsoftware.com/in/cloudstorage/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Download the free trial at &lt;a href=&quot;https://www.nsoftware.com/in/cloudstorage/download.aspx&quot; rel=&quot;nofollow&quot;&gt;https://www.nsoftware.com/in/cloudstorage/download.aspx&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 12 Aug 2019 18:34:41 +0000</pubDate>
+ <dc:creator>ihaznedari</dc:creator>
+ <guid isPermaLink="false">4758038 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/cloud-storage-integrator#comments</comments>
+  </item>
+  <item>
+    <title>EDIFACT Integrator</title>
+    <link>http://marketplace.eclipse.org/content/edifact-integrator</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/edifact%20land.png&quot; width=&quot;95&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2019-08-15 17:51&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22/n%20software%2C%20Inc.%22&quot;&gt;/n software, Inc.&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2019-08-12 14:21&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/ihaznedari/listings&quot; title=&quot;Drew Dalton&quot;&gt;Drew Dalton&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The EDIFACT Integrator includes software components that facilitate Electronic Data Interchange (EDIFACT) parsing, translation, and transformation. The components include flexible schema support enabling developers to use various schema formats allowing for easier integration with existing EDI processing applications.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.nsoftware.com/in/edi/download.aspx&quot; rel=&quot;nofollow&quot;&gt;https://www.nsoftware.com/in/edi/download.aspx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Features&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The EDIFACT Integrator provides the utmost in flexibility for developers and businesses interested in enabling their software systems with Internet EDI (EDIFACT) parsing and message generation capabilities. The EDIFACT Integrator includes dynamic EDI components that can be used to parse, translate, and transform EDI data:&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;EDIFACTReader:&lt;/strong&gt; Parses an incoming EDI document (EDIFACT) so you may read the data in the document.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;This component can either load an entire document at once or stream portions of the document. Loading the entire document at once allows developers to use the XPath property to easily navigate the document. For larger documents, developers can choose to streamline parsing and only navigate sections of the document&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;EDIFACTWriter&lt;/strong&gt;: Generates new EDI documents (EDIFACT) from scratch. Create EDIFACT documents from scratch, one segment at a time.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;EDIFACTTranslator:&lt;/strong&gt; The EDIFACTTranslator component provides a simple way to convert EDI to XML and vice versa.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Flexible Schema Support&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;There is no single official standard for EDI Schemas, and the EDIFACTReader and EDIFACTWriter components were designed with this in mind. Rather than require the use of a custom schema format, or require a single schema type, the EDIFACTReader and EDIFACTWriter support multiple, common, schema formats. This allows for easier integration with existing EDI processing applications.&lt;/p&gt;
+&lt;p&gt;EDIFACT Integrator includes support for the following schemas:&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Standard Exchange Format (SEF)&lt;/strong&gt; - &lt;a href=&quot;https://www.tibco.com/products/tibco-foresight/&quot; rel=&quot;nofollow&quot;&gt;https://www.tibco.com/products/tibco-foresight/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;BizTalk (XSD) &lt;/strong&gt;- &lt;a href=&quot;http://msdn.microsoft.com/en-us/library/aa559426&quot; rel=&quot;nofollow&quot;&gt;http://msdn.microsoft.com/en-us/library/aa559426&lt;/a&gt;(v=BTS.70).aspx&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;BOTS&lt;/strong&gt; - &lt;a href=&quot;http://bots.sourceforge.net/en/index.shtml&quot; rel=&quot;nofollow&quot;&gt;http://bots.sourceforge.net/en/index.shtml&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Altova&lt;/strong&gt; - &lt;a href=&quot;http://www.altova.com/&quot; rel=&quot;nofollow&quot;&gt;http://www.altova.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Fore more information, please visit &lt;a href=&quot;https://www.nsoftware.com/in/edi/download.aspx&quot; rel=&quot;nofollow&quot;&gt;https://www.nsoftware.com/in/edi/download.aspx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Download the free trial at &lt;a href=&quot;https://www.nsoftware.com/in/edifact/download.aspx&quot; rel=&quot;nofollow&quot;&gt;https://www.nsoftware.com/in/edifact/download.aspx&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 12 Aug 2019 18:21:04 +0000</pubDate>
+ <dc:creator>ihaznedari</dc:creator>
+ <guid isPermaLink="false">4758030 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/edifact-integrator#comments</comments>
+  </item>
+  <item>
+    <title>EDI Integrator</title>
+    <link>http://marketplace.eclipse.org/content/edi-integrator</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/edi.png&quot; width=&quot;95&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2019-08-15 17:50&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22/n%20software%2C%20Inc.%22&quot;&gt;/n software, Inc.&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2019-08-12 14:13&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/ihaznedari/listings&quot; title=&quot;Drew Dalton&quot;&gt;Drew Dalton&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;EDI Integrator includes software components for e-business communications, through all leading Internet standards for secure EDI transmissions. The components facilitate the integration of secure and reliable messaging and provide significant cost savings by leveraging the Internet as a ubiquitous network instead of traditional EDI VANs.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.nsoftware.com/in/edi/&quot; rel=&quot;nofollow&quot;&gt;https://www.nsoftware.com/in/edi/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Features &lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;eBusinessReady™ certified AS2 communications.&lt;/li&gt;
+&lt;li&gt;Supports the full range of AS1, AS2, AS3, and AS4 security features including signing, S/MIME encryption, digital certificates, and MDN-based receipts.&lt;/li&gt;
+&lt;li&gt;Odette File Transfer client integration (v1.1 - 1.4, V2).&lt;/li&gt;
+&lt;li&gt;Transfer files to and from FTP/S servers. Supports SSL, Digital Certificates, and advanced proxy/firewall settings.&lt;/li&gt;
+&lt;li&gt;NAESB / GISB Components with support for North American Energy Standards communications (EDM) protocol.&lt;/li&gt;
+&lt;li&gt;MLLP Client and Server for HL7 document transfer.&lt;/li&gt;
+&lt;li&gt;New enterprise enhancements such as 64-bit support, IPv6 addressing, PEM key support, Quoted Printable encoding, and much more!&lt;/li&gt;
+&lt;li&gt;Fully customizable components, designed to easily integrate with existing systems.&lt;/li&gt;
+&lt;li&gt;Comprehensive AS2 client / server web application included with full source.&lt;/li&gt;
+&lt;li&gt;Support for certificates with strong cryptographic features such as SHA2 and key sizes 2048 bits or larger.&lt;/li&gt;
+&lt;li&gt;Built-in detailed logging functionality.&lt;/li&gt;
+&lt;li&gt;Secure data communications using up to 256-bit strong SSL encryption and digital certificates.&lt;/li&gt;
+&lt;li&gt;FIPS 140-2 compliant cryptography (Windows only).&lt;/li&gt;
+&lt;li&gt;Advanced Digital Certificate capabilities allow you to create, sign, and manage X.509 Digital Certificates. Become your own certificate authority.&lt;/li&gt;
+&lt;li&gt;A complete unified framework with a common, easy-to-learn object model and simplified interfaces that help you get more done.&lt;/li&gt;
+&lt;li&gt;Components are thread-safe on critical members.&lt;/li&gt;
+&lt;li&gt;Fast, robust, reliable - the components consume minimal resources.&lt;/li&gt;
+&lt;li&gt;Native development components for all supported platforms and component technologies.&lt;/li&gt;
+&lt;li&gt;Rigorously tested, rock-solid components that have undergone hundreds of thousands of hours of testing both internally by our QA team and externally through customer installations.&lt;/li&gt;
+&lt;li&gt;Detailed reference documentation, sample applications, fully-indexed help files, and an extensive online knowledgebase.&lt;/li&gt;
+&lt;li&gt;Backed by multi-tier professional support, including free email support and enterprise-level paid support.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;For more information, please visit &lt;a href=&quot;https://www.nsoftware.com/in/edi/&quot; rel=&quot;nofollow&quot;&gt;https://www.nsoftware.com/in/edi/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Download the free trial at &lt;a href=&quot;https://www.nsoftware.com/in/edi/download.aspx&quot; rel=&quot;nofollow&quot;&gt;https://www.nsoftware.com/in/edi/download.aspx&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 12 Aug 2019 18:13:37 +0000</pubDate>
+ <dc:creator>ihaznedari</dc:creator>
+ <guid isPermaLink="false">4758025 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/edi-integrator#comments</comments>
+  </item>
+  <item>
+    <title>X12 Integrator</title>
+    <link>http://marketplace.eclipse.org/content/x12-integrator</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/x12.png&quot; width=&quot;95&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2019-08-15 17:49&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22/n%20software%2C%20Inc.%22&quot;&gt;/n software, Inc.&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2019-08-12 14:28&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/ihaznedari/listings&quot; title=&quot;Drew Dalton&quot;&gt;Drew Dalton&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The X12 Integrator includes software components that facilitate Electronic Data Interchange (EDI) mapping and translation (X12 &amp;amp; EDIFACT). The components include flexible schema support enabling developers to use various schema formats allowing for easier integration with existing EDI processing applications. &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.nsoftware.com/in/x12/&quot; rel=&quot;nofollow&quot;&gt;https://www.nsoftware.com/in/x12/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Features&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The X12 Integrator provides the utmost in flexibility for developers and businesses interested in enabling their software systems with Internet EDI (X12 and EDIFACT) parsing and message generation capabilities. The X12 Integrator includes two dynamic EDI components that can be used to parse and generate EDI (X12 and EDIFACT) data:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt; EDIReader&lt;/strong&gt;: Parses an incoming EDI document (X12 or EDIFACT) so you may read the data in the document.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;
+This component can either load an entire document at once or stream portions of the document. Loading the entire document at once allows developers to use the XPath property to easily navigate the document. For larger documents, developers can choose to streamline parsing and only navigate sections of the document&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;EDIWriter:&lt;/strong&gt; Generates new EDI documents (X12 or EDIFACT) from scratch. The EDI writer component allows you to create a document from scratch, one segment at a time.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;
+&lt;strong&gt;Flexible Schema Support&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;There is no single official standard for EDI Schemas, and the EDIReader and EDIWriter components were designed with this in mind. Rather than require the use of a custom schema format, or require a single schema type, the EDIReader and EDIWriter support multiple, common, schema formats. This allows for easier integration with existing EDI processing applications.&lt;/p&gt;
+&lt;p&gt;X12 Integrator includes support for the following schemas:&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Standard Exchange Format (SEF)&lt;/strong&gt; - &lt;a href=&quot;https://www.tibco.com/products/tibco-foresight/&quot; rel=&quot;nofollow&quot;&gt;https://www.tibco.com/products/tibco-foresight/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;BizTalk (XSD) &lt;/strong&gt;- &lt;a href=&quot;http://msdn.microsoft.com/en-us/library/aa559426&quot; rel=&quot;nofollow&quot;&gt;http://msdn.microsoft.com/en-us/library/aa559426&lt;/a&gt;(v=BTS.70).aspx&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;BOTS&lt;/strong&gt; - &lt;a href=&quot;http://bots.sourceforge.net/en/index.shtml&quot; rel=&quot;nofollow&quot;&gt;http://bots.sourceforge.net/en/index.shtml&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Altova&lt;/strong&gt; - &lt;a href=&quot;http://www.altova.com/&quot; rel=&quot;nofollow&quot;&gt;http://www.altova.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;For more information, please visit &lt;a href=&quot;https://www.nsoftware.com/in/x12/&quot; rel=&quot;nofollow&quot;&gt;https://www.nsoftware.com/in/x12/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Download the free trial at &lt;a href=&quot;https://www.nsoftware.com/in/x12/download.aspx&quot; rel=&quot;nofollow&quot;&gt;https://www.nsoftware.com/in/x12/download.aspx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 12 Aug 2019 18:28:30 +0000</pubDate>
+ <dc:creator>ihaznedari</dc:creator>
+ <guid isPermaLink="false">4758033 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/x12-integrator#comments</comments>
+  </item>
+  <item>
+    <title>IP*Works! Encrypt</title>
+    <link>http://marketplace.eclipse.org/content/ipworks-encrypt</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/Encrypt%20image.png&quot; width=&quot;95&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2019-08-15 17:47&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22/n%20software%2C%20Inc.%22&quot;&gt;/n software, Inc.&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2019-08-12 11:53&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/ihaznedari/listings&quot; title=&quot;Drew Dalton&quot;&gt;Drew Dalton&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;IP*Works! Encrypt is a comprehensive suite of components for implementing strong encryption via major cryptographic standards. The easy to use components enable developers to quickly extend applications with powerful security features including encryption &amp;amp; decryption, secure message hashing, message signing &amp;amp; signature verification, and digital certificate generation and management.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.nsoftware.com/ipworks/encrypt/&quot; rel=&quot;nofollow&quot;&gt;https://www.nsoftware.com/ipworks/encrypt/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Features&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Strong encryption through AES, BlowFish, CAST, ChaCha20, DES, DPAPI, DSA, ECC, Elgamal, IDEA, JWS, OpenPGP, Poly1305, RC2, RC4, Rijdael, RSA, SMIME, TEA, TripleDES, and TwoFish.&lt;/li&gt;
+&lt;li&gt;Support for SHA1, SHA2 (SHA-224, SHA-256, SHA-384, SHA-512), ChaCha, JWE, MD2, MD4, MD5, RIPEMD160, MD5SHA1, and HMAC (MD5, SHA1, SHA2) signature hash algorithms.&lt;/li&gt;
+&lt;li&gt;Encrypt/decrypt, sign, and verify message signatures using S/MIME or OpenPGP, and digital certificates.&lt;/li&gt;
+&lt;li&gt;Support for JSON Web Signatures (JWS) and JSON Web Encryption (JWE) for signing/verifying and encrypting/decrypting data in respective standard formats.&lt;/li&gt;
+&lt;li&gt;Support for the S/MIME v2 and S/MIME v3 standards for mail and document encryption.&lt;/li&gt;
+&lt;li&gt;Support for Secure XML Cryptography and Digital Signature standards.&lt;/li&gt;
+&lt;li&gt;Advanced Digital Certificate capabilities allow you to create, sign, and manage X.509 Digital Certificates. Become your own certificate authority.&lt;/li&gt;
+&lt;li&gt;Advanced key management capabilities allow you to create and manage OpenPGP Keyrings.&lt;/li&gt;
+&lt;li&gt;Encrypt/decrypt, sign, and verify message signatures using S/MIME or OpenPGP, and digital certificates.&lt;/li&gt;
+&lt;li&gt;A complete unified framework with a common, easy-to-learn object model and simplified interfaces that help you get more done.&lt;/li&gt;
+&lt;li&gt;Components are thread-safe on critical members.&lt;/li&gt;
+&lt;li&gt;Fast, robust, reliable - the components consume minimal resources.&lt;/li&gt;
+&lt;li&gt;Native development components for all supported platforms and component technologies.&lt;/li&gt;
+&lt;li&gt;Rigorously tested, rock-solid components that have undergone hundreds of thousands of hours of testing both internally by our QA team and externally through customer installations.&lt;/li&gt;
+&lt;li&gt;Detailed reference documentation, sample applications, fully-indexed help files, and an extensive online knowledge-base.&lt;/li&gt;
+&lt;li&gt;Backed by multi-tier professional support, including free email support and enterprise-level paid support.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;For more information, please visit &lt;a href=&quot;https://www.nsoftware.com/ipworks/encrypt/&quot; rel=&quot;nofollow&quot;&gt;https://www.nsoftware.com/ipworks/encrypt/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Download the free trial at &lt;a href=&quot;https://www.nsoftware.com/ipworks/encrypt/download.aspx&quot; rel=&quot;nofollow&quot;&gt;https://www.nsoftware.com/ipworks/encrypt/download.aspx&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 12 Aug 2019 15:53:25 +0000</pubDate>
+ <dc:creator>ihaznedari</dc:creator>
+ <guid isPermaLink="false">4757900 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/ipworks-encrypt#comments</comments>
+  </item>
+  </channel>
+</rss>
