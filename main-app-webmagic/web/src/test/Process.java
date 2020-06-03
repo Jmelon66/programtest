@@ -7,12 +7,13 @@ import us.codecraft.webmagic.processor.PageProcessor;
 import web.readbai;
 import web.readbai;
 import web.readintr;
+import web.readvisit;
 
 public class Process implements PageProcessor {
     // 抓取网站的相关配置，包括编码、抓取间隔、重试次数等
-    private Site site = Site.me().setRetryTimes(3).setSleepTime(100).setCycleRetryTimes(5).setRetryTimes(10);
+    private Site site = Site.me().setRetryTimes(13).setSleepTime(100).setCycleRetryTimes(15).setRetryTimes(10);
     private static int count =0;
-    static readintr r=new  readbai();
+    static readintr r=new readvisit();
 
     public Site getSite() {
         return site;
@@ -27,7 +28,16 @@ public class Process implements PageProcessor {
         long startTime, endTime;
         System.out.println("开始爬取...");
         startTime = System.currentTimeMillis();
-        Spider.create(new Process()).addUrl(r.getUrl()).thread(5).run();
+        for(int i=0;i<100;i++) {
+            Spider.create(new Process()).addUrl(r.getUrl()).thread(5).run();
+            try {
+				Thread.sleep(30000);
+			} catch (InterruptedException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+        }
+        
         endTime = System.currentTimeMillis();
         System.out.println("爬取结束，耗时约" + ((endTime - startTime) / 1000) + "秒，抓取了"+count+"条记录");
     }
